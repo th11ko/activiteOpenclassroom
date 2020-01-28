@@ -1,1 +1,6 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum magna quis pharetra mollis. Vestibulum eget sapien ante. Aenean eu velit malesuada, efficitur justo vitae, condimentum erat. Ut eu mollis justo. Fusce volutpat ante eget magna vulputate, id mollis justo porta. Proin mollis finibus nulla, vitae placerat libero euismod eget. Praesent suscipit sem vel luctus varius. Proin eu fermentum mi, vitae bibendum mauris. Pellentesque id est ut turpis posuere posuere. Etiam ut sapien urna. Vivamus blandit, ipsum ac dignissim semper, leo nulla pulvinar felis, at tincidunt lacus nunc eget nibh. Donec ultricies in massa at mollis.
+int x=2;
+int y=2;
+int z=0;
+z=x+y
+
+
